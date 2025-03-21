@@ -1,0 +1,13 @@
+rocket_config.txt
+# Rocket Configuration File
+# Format: key=value (one per line, # for comments)
+mass=1000.0 # Dry mass in Kg
+fuelMass=500.0 # Fuel mass in Kg
+thrust=20000.0 # Thrust in Newtons
+fuelBurnRate=10.0 # Fuel consumption in kg/s
+launchAngleDeg=45.0 # Launch angle in degrees from vertical
+windVelocity=5.0 0.0 0.0 # Wind velocity (x y z) in m/s
+gravity=9.81 # Gravitational acceleration in m/s^2
+dragCoeff=0.75 # Drag Coefficient
+airDensity=1.225 # Air density in kg/m^3
+crossSection=1.0 # Cross=sectional area in m^2
